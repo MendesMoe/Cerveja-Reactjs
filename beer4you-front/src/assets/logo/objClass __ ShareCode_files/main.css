@@ -1,0 +1,9 @@
+html, body {
+  height: 100%;
+}
+.CodeMirror {
+  /* Set height, width, borders, and global font properties here */
+  font-size: 15px;
+  height: 100%;
+  width: 100%;
+}
